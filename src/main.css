@@ -11,6 +11,7 @@
 
 * {
   margin: 0;
+  box-sizing: border-box;
 }
 
 html {
@@ -36,7 +37,6 @@ video,
 canvas,
 svg {
   display: block;
-  max-width: 100%;
 }
 
 input,
